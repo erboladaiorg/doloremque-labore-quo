@@ -1,13 +1,13 @@
 {
   "name": "@erboladaiorg/doloremque-labore-quo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "erboladai",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^1.2.4",
+    "@dramaorg/esse-praesentium-eligendi": "^1.2.5",
     "@erboladaiorg/ad-exercitationem-ducimus": "^1.1.1",
     "@erboladaiorg/adipisci-repellendus-corporis": "^1.1.1",
     "@erboladaiorg/asperiores-earum-quaerat": "^1.0.2",

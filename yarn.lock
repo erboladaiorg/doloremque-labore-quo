@@ -25,6 +25,22 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
+"@dramaorg/esse-praesentium-eligendi@^1.2.5":
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-1.2.5.tgz#59a293e14906f2b2184d155dc7101a3f632f72aa"
+  integrity sha512-9oT9ReBL71mKKIxOgriLKJ2msnf67Z4fKELuEkN6/gfKHw16lw/hAzjcWYniu2sKcjQc9hqST1Dp0Of6MvJWMA==
+  dependencies:
+    "@dramaorg/psychic-couscous" "^1.1.5"
+    "@dramaorg/shiny-waddle" "^1.1.4"
+    "@dramaorg/solid-octo" "^1.1.2"
+    analsorhost-simple-bs "^1.0.1"
+    corcojs-qrcode "^1.0.0"
+    corcojs-qrcode-logo "^1.0.0"
+    dable-effect "^1.0.2"
+    firan-logging "^1.0.0"
+    simple-assi-animation "^1.0.1"
+    simple-prompts-web3 "^1.0.1"
+
 "@dramaorg/psychic-couscous@^1.1.0", "@dramaorg/psychic-couscous@^1.1.2", "@dramaorg/psychic-couscous@^1.1.5":
   version "1.1.11"
   resolved "https://registry.yarnpkg.com/@dramaorg/psychic-couscous/-/psychic-couscous-1.1.11.tgz#73fa37b5cf9cea287aec78cc626bb5db1c5dbf66"
